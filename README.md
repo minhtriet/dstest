@@ -4,7 +4,7 @@ Notebook running order
 - `DatawPrep.ipynb` Prepare the data, with the following columns:
 - `EDAreal.ipynb` Exploratory Data Analysis to find any misclassification in the data
 - `Train.ipynb` Train
-  - Hyperparams tuning
+  - Hyperparams tuning: Split the training to 50-50 to tune the hyperparameters. Later use best paramenters to train on the whole training set.
   - Log experiments to Tensorboard  
 - `Inference.ipynb` Inference and error analysis to see which datapoint is the most likely to be misclassified.
   - By class
