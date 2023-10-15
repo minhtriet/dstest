@@ -1,0 +1,4 @@
+transformers
+torch
+accelerate
+llama_index
