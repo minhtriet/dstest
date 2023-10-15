@@ -7,3 +7,5 @@ tensorboard
 optuna
 matplotlib
 seaborn
+accelerate
+llama_index
