@@ -1,0 +1,9 @@
+transformers
+torch
+pandas
+tensorboardX
+accelerate
+tensorboard
+optuna
+matplotlib
+seaborn
