@@ -1,4 +1,4 @@
-transformers
+transformers==4.34
 torch
 pandas
 tensorboardX
@@ -9,3 +9,4 @@ matplotlib
 seaborn
 accelerate
 llama_index
+typing_extensions==4.7.1
