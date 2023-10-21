@@ -1,6 +1,7 @@
 transformers==4.34
 torch
-pandas
+pandas==2.1.1
+scikit-learn
 tensorboardX
 accelerate
 tensorboard
