@@ -11,3 +11,4 @@ seaborn
 accelerate
 llama_index
 typing_extensions==4.7.1
+datasets
